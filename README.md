@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
+[![MasterHead](https://wallpapers.com/images/featured-full/80s-neon-uevqe7pg20chynkw.jpg)
 
 <h1 align="center">Hi 👋, I'm Romanos Papanikolaou</h1>
 <h2 align="center">#romanos-your-dev</h2>
