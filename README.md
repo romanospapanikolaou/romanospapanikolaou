@@ -1,7 +1,10 @@
+[![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
+
 <h1 align="center">Hi 👋, I'm Romanos Papanikolaou #romanos-your-dev</h1>
 <h3 align="center">A frontend developer from Greece🇬🇷. Currently based in Sweden🇸🇪</h3>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--iJzkz8ir--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d5sdc8q1qlcsbeotkrke.gif"
 
-<p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iJzkz8ir--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d5sdc8q1qlcsbeotkrke.gif" alt="romanospapanikolaou" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanospapanikolaou&label=Profile%20views&color=0e75b6&style=flat" alt="romanospapanikolaou" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanospapanikolaou" alt="romanospapanikolaou" /></a> </p>
 
