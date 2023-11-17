@@ -1,5 +1,6 @@
+[![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
 
-<h1 align="center">Hi 👋, I'm Romanos Papanikolaou #romanos-your-dev</h1>
+<h1 align="center">Hi 👋, I'm Romanos Papanikolaou</h1>
 <h2 align="center">#romanos-your-dev</h2>
 <h3 align="center">A frontend developer from Greece🇬🇷. Currently based in Sweden🇸🇪</h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/VhaOAnY0pfMAAAAC/vaporwave-tech.gif">
