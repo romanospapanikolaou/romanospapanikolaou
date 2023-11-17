@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romanos Papanikolaou #romanos-your-dev</h1>
 <h3 align="center">A frontend developer from Greece🇬🇷. Currently based in Sweden🇸🇪</h3>
 
-<p align="left"> <img src="https://www.pinterest.com/pin/funniest-animated-gifs-of-the-week-8--836473330764630274/" alt="romanospapanikolaou" /> </p>
+<p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iJzkz8ir--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d5sdc8q1qlcsbeotkrke.gif" alt="romanospapanikolaou" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanospapanikolaou" alt="romanospapanikolaou" /></a> </p>
 
