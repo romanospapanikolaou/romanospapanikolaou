@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanospapanikolaou&label=Profile%20views&color=0e75b6&style=flat" alt="romanospapanikolaou" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanospapanikolaou" alt="romanospapanikolaou" /></a> </p>
-
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **romanos.papanikolaou@gmail.com**
