@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Romanos Papanikolaou #romanos-your-dev</h1>
 <h3 align="center">A frontend developer from Greece🇬🇷. Currently based in Sweden🇸🇪</h3>
-<img align="right" alt="Coding" width="400" src="https://neon-wonderlands.tumblr.com/post/644945606024069120"
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/4TrKGDZrcugHAt2VBc"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanospapanikolaou&label=Profile%20views&color=0e75b6&style=flat" alt="romanospapanikolaou" /> </p>
 
