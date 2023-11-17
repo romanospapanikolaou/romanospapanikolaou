@@ -1,4 +1,3 @@
-[![MasterHead](https:media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"
 
 <h1 align="center">Hi 👋, I'm Romanos Papanikolaou #romanos-your-dev</h1>
 <h2 align="center">#romanos-your-dev</h2>
