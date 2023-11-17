@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Romanos Papanikolaou #romanos-your-dev</h1>
 <h3 align="center">A frontend developer from Greece🇬🇷. Currently based in Sweden🇸🇪</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif](https://64.media.tumblr.com/51c6106b24e8fabee0938bfa60b593a4/d6af7fc94b208d91-e0/s500x750/ed3b0d08afa89ac32b06651455334ccfb52f3cd9.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif](https://64.media.tumblr.com/51c6106b24e8fabee0938bfa60b593a4/d6af7fc94b208d91-e0/s500x750/ed3b0d08afa89ac32b06651455334ccfb52f3cd9.gif](https://neon-wonderlands.tumblr.com/post/644945606024069120"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanospapanikolaou&label=Profile%20views&color=0e75b6&style=flat" alt="romanospapanikolaou" /> </p>
 
