@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanospapanikolaou&label=Profile%20views&color=0e75b6&style=flat" alt="romanospapanikolaou" /> </p>
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **romanos.papanikolaou@gmail.com**
 
 - ⚡ Fun fact **I am also a DJ**
