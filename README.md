@@ -16,6 +16,7 @@
 <a href="https://instagram.com/romanospapanikolaou" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 <a href="https://linkedin.com/in/romanos-papanikolaou
 " target="blank"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin"/></a>
+<a href="#"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/new-post.png" alt="new-post"/></a>
 </p>
 
 <h3 background-color="black" align="center">Languages and Tools:</h3>
