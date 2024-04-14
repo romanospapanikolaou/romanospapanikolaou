@@ -8,22 +8,19 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/> 
-<img width="96" height="96" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
-<img width="96" height="96" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/>
-<img width="96" height="96" src="https://img.icons8.com/fluency/96/typescript--v1.png" alt="typescript--v1"/>
-<img width="96" height="96" src="https://img.icons8.com/fluency/96/angularjs.png" alt="angularjs"/>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/> 
+  <img width="96" height="96" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/typescript--v1.png" alt="typescript--v1"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/angularjs.png" alt="angularjs"/>
 </p>
-!<-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanospapanikolaou&show_icons=true&locale=en&layout=compact" alt="romanospapanikolaou" /></p> -->!
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanospapanikolaou&show_icons=true&locale=en" alt="romanospapanikolaou" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanospapanikolaou&" alt="romanospapanikolaou" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanospapanikolaou&show_icons=true&locale=en&layout=compact" alt="romanospapanikolaou" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=romanospapanikolaou&show_icons=true&locale=en" alt="romanospapanikolaou" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanospapanikolaou&" alt="romanospapanikolaou" /></p>
 
 
 - 📫 How to reach me **romanos.papanikolaou@gmail.com**
-
-- ⚡ Fun fact **I am also a DJ**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -32,4 +29,8 @@
 <a href="https://linkedin.com/in/romanos-papanikolaou
 " target="blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin"/></a>
 <a href="#"><img width="60" height="60" src="https://img.icons8.com/glyph-neue/64/FFFFFF/new-post.png" alt="new-post"/></a>
+</p>
+
+<p align="center">
+  ⚡ Fun fact **I am also a DJ**
 </p>
