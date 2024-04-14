@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<h3 align="center">⚡ Fun fact ⚡
-</h3>
-<46 align="center">**I am also a DJ**
-</h4>
+<h2 align="center">⚡ Fun fact ⚡
+</h2>
+<p></p>"center">** I am also a DJ and I love snowboarding **
+</p>
