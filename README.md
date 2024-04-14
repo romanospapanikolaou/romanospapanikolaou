@@ -1,3 +1,5 @@
+https://cdn.dribbble.com/users/320114/screenshots/2575134/media/7ffbc597d322d39017f3f2696b8def6e.gif
+
 <h1 align="center">Romanos Papanikolaou</h1>
 <p align="center">Junior Frontend developer from Greece 🇬🇷 | Currently based in Sweden 🇸🇪</p>
 <p align="center">Seeking for a front-end internship in Stockholm or Uppsala area | Open to New Opportunities </p>
