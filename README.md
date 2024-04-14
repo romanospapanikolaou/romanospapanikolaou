@@ -30,10 +30,13 @@
 <a href="https://instagram.com/romanospapanikolaou" target="blank"><img width="60" height="60" src="https://img.icons8.com/ios/50/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 <a href="https://linkedin.com/in/romanos-papanikolaou
 " target="blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin"/></a>
-<a href="#"><img width="60" height="60" src="https://img.icons8.com/glyph-neue/64/FFFFFF/new-post.png" alt="new-post"/></a>
+<a href="mailto:romanospapanikolaou@gmail.com?subject=Testing out mailto!&body=This is only a test!"><img width="60" height="60" src="https://img.icons8.com/glyph-neue/64/FFFFFF/new-post.png" alt="new-post"/></a>
 </p>
 
 <h4 align="center">⚡ Fun fact ⚡
 </h4>
 <h6 align="center">**I am also a DJ**
 </h6>
+
+
+<a href="mailto:romanospapanikolaou@gmail.com?subject=Testing out mailto!&body=This is only a test!">Second Example</a>
