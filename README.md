@@ -34,6 +34,8 @@
   </a>
   <a href="mailto:romanospapanikolaou@gmail.com?subject=You can write your subject here&body=Say Hello! 😊" target=”_blank”><img width="48" height="48"                   src="https://img.icons8.com/fluency/96/email-open.png" alt="email-open"/>
   </a>
+  <a href="https://romanospapanikolaou.com" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/internet.png" alt="internet"/>
+  </a>
 </p>
 
 <h4 align="center">⚡ Fun fact ⚡
