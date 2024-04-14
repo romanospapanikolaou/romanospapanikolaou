@@ -1,7 +1,6 @@
 <h1 align="center">Hello</h1>
 <h1 align="center">I'm Romanos Papanikolaou</h1>
-<h2 align="center">A frontend developer from Greece 🇬🇷</h2>
-<h2 align="center">Currently based in Sweden 🇸🇪</h2>
+<p align="center">A frontend developer from Greece 🇬🇷, Currently based in Sweden 🇸🇪</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=romanospapanikolaou&label=Profile%20views&color=0e75b6&style=flat" alt="romanospapanikolaou" /> </p>
 
