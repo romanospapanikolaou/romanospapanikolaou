@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/romanospapanikolaou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="romanospapanikolaou" height="40" width="40" /></a>
-<a href="https://instagram.com/romanospapanikolaou" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/></a>
+<a href="https://instagram.com/romanospapanikolaou" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 <a href="https://linkedin.com/in/romanos-papanikolaou
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="romanospapanikolaou" height="40" width="40" /></a>
 </p>
