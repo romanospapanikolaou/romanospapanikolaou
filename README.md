@@ -21,9 +21,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanospapanikolaou&" alt="romanospapanikolaou" /></p>
 
-
-- 📫 How to reach me **romanos.papanikolaou@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/romanospapanikolaou" target="blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/FFFFFF/facebook-new.png" alt="facebook-new"/></a>
