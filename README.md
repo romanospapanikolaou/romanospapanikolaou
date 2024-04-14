@@ -1,10 +1,10 @@
 <h1 align="center">Romanos Papanikolaou</h1>
-<p align="center">Junior Frontend developer from Greece 🇬🇷, Currently based in Sweden 🇸🇪</p>
+<p align="center">Junior Frontend developer from Greece 🇬🇷 | Currently based in Sweden 🇸🇪</p>
 <p align="center">Seeking for a front-end internship in Stockholm or Uppsala area | Open to New Opportunities </p>
 
 
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 <p align="center"> 
   <img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html"/> 
   <img width="96" height="96" src="https://img.icons8.com/color/96/css3.png" alt="css"/>
@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanospapanikolaou&" alt="romanospapanikolaou" /></p>
 
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <p align="center"> 
   <a href="https://fb.com/romanospapanikolaou" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/96/facebook-new.png" alt="facebook-new"/>
   </a>
@@ -39,5 +39,5 @@
 
 <h2 align="center">⚡ Fun fact ⚡
 </h2>
-<p align="center">** I am also a DJ and I love snowboarding **
+<p align="center">| I am also a DJ and I love snowboarding |
 </p>
