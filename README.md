@@ -14,7 +14,7 @@
 <img width="96" height="96" src="https://img.icons8.com/fluency/96/typescript--v1.png" alt="typescript--v1"/>
 <img width="96" height="96" src="https://img.icons8.com/fluency/96/angularjs.png" alt="angularjs"/>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanospapanikolaou&show_icons=true&locale=en&layout=compact" alt="romanospapanikolaou" /></p>
+!<-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanospapanikolaou&show_icons=true&locale=en&layout=compact" alt="romanospapanikolaou" /></p> -->!
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanospapanikolaou&show_icons=true&locale=en" alt="romanospapanikolaou" /></p>
 
