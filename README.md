@@ -24,11 +24,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/romanospapanikolaou" target="blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/FFFFFF/facebook-new.png" alt="facebook-new"/></a>
-<a href="https://instagram.com/romanospapanikolaou" target="blank"><img width="60" height="60" src="https://img.icons8.com/ios/50/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1"/></a>
-<a href="https://linkedin.com/in/romanos-papanikolaou
-" target="blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin"/></a>
-<a href="mailto:romanospapanikolaou@gmail.com?subject=You can write your subject here&body=You can start saying Hello!" target=”_blank”><img width="60" height="60" src="https://img.icons8.com/glyph-neue/64/FFFFFF/new-post.png" alt="new-post"/></a>
+  <a href="https://fb.com/romanospapanikolaou" target="blank"><img width="96" height="96" src="https://img.icons8.com/fluency/96/facebook-new.png" alt="facebook-new"/>
+  </a>
+  <a href="https://instagram.com/romanospapanikolaou" target="blank"><img width="96" height="96" src="https://img.icons8.com/color/96/instagram-new--v1.png" alt="instagram-new--      v1"/>
+  </a>
+  <a href="https://linkedin.com/in/romanos-papanikolaou" target="blank"><img width="96" height="96" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="mailto:romanospapanikolaou@gmail.com?subject=You can write your subject here&body=You can start saying Hello!" target=”_blank”><img width="96" height="96"                   src="https://img.icons8.com/fluency/96/email-open.png" alt="email-open"/>
+  </a>
 </p>
 
 <h4 align="center">⚡ Fun fact ⚡
