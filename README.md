@@ -11,6 +11,7 @@
   <img width="80" height="80" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/>
   <img width="80" height="80" src="https://img.icons8.com/fluency/96/typescript--v1.png" alt="typescript"/>
   <img width="80" height="80" src="https://img.icons8.com/fluency/96/angularjs.png" alt="angularjs"/>
+  <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
 </p>
 
 <p align="center"> 
