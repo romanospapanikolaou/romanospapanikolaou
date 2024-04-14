@@ -6,11 +6,11 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
-  <img width="70" height="70" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html"/> 
-  <img width="70" height="70" src="https://img.icons8.com/color/96/css3.png" alt="css"/>
-  <img width="60" height="60" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/>
-  <img width="96" height="96" src="https://img.icons8.com/fluency/96/typescript--v1.png" alt="typescript"/>
-  <img width="96" height="96" src="https://img.icons8.com/fluency/96/angularjs.png" alt="angularjs"/>
+  <img width="80" height="80" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html"/> 
+  <img width="80" height="80" src="https://img.icons8.com/color/96/css3.png" alt="css"/>
+  <img width="80" height="80" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/>
+  <img width="80" height="80" src="https://img.icons8.com/fluency/96/typescript--v1.png" alt="typescript"/>
+  <img width="80" height="80" src="https://img.icons8.com/fluency/96/angularjs.png" alt="angularjs"/>
 </p>
 
 <p align="center"> 
