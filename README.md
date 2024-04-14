@@ -1,6 +1,6 @@
 <h1 align="center">Hello</h1>
 <h1 align="center">My name is Romanos Papanikolaou</h1>
-<p align="center">A frontend developer from Greece 🇬🇷, Currently based in Sweden 🇸🇪</p>
+<p align="center">Junior Frontend developer from Greece 🇬🇷, Currently based in Sweden 🇸🇪</p>
 <p align="center">Seeking for a front-end internship in Stockholm or Uppsala area | Open to New Opportunities </p>
 
 
