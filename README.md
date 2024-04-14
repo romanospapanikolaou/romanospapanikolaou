@@ -30,7 +30,7 @@
   </a>
   <a href="https://linkedin.com/in/romanos-papanikolaou" target="blank"><img width="96" height="96" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="mailto:romanospapanikolaou@gmail.com?subject=You can write your subject here&body=You can start saying Hello!" target=”_blank”><img width="96" height="96"                   src="https://img.icons8.com/fluency/96/email-open.png" alt="email-open"/>
+  <a href="mailto:romanospapanikolaou@gmail.com?subject=You can write your subject here&body=Say Hello! 😊" target=”_blank”><img width="96" height="96"                   src="https://img.icons8.com/fluency/96/email-open.png" alt="email-open"/>
   </a>
 </p>
 
