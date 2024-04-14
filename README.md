@@ -33,6 +33,7 @@
 <a href="#"><img width="60" height="60" src="https://img.icons8.com/glyph-neue/64/FFFFFF/new-post.png" alt="new-post"/></a>
 </p>
 
-<h4 align="center">
-  ⚡ Fun fact ⚡/br **I am also a DJ**
+<h4 align="center">⚡ Fun fact ⚡
 </h4>
+<h6 align="center">**I am also a DJ**
+</h6>
