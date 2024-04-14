@@ -15,7 +15,7 @@
 <a href="https://fb.com/romanospapanikolaou" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/facebook-new.png" alt="facebook-new"/></a>
 <a href="https://instagram.com/romanospapanikolaou" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 <a href="https://linkedin.com/in/romanos-papanikolaou
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="romanospapanikolaou" height="40" width="40" /></a>
+" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin"/></a>
 </p>
 
 <h3 background-color="black" align="center">Languages and Tools:</h3>
