@@ -14,8 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/romanospapanikolaou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="romanospapanikolaou" height="30" width="40" /></a>
-<a href="https://instagram.com/romanospapanikolaou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romanospapanikolaou" height="30" width="40" /></a>
+<a href="https://fb.com/romanospapanikolaou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="romanospapanikolaou" height="40" width="40" /></a>
+<a href="https://instagram.com/romanospapanikolaou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romanospapanikolaou" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/romanos-papanikolaou
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="romanospapanikolaou" height="40" width="40" /></a>
 </p>
 
 <h3 background-color="black" align="left">Languages and Tools:</h3>
