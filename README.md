@@ -1,5 +1,5 @@
 <h1 align="center">Hello</h1>
-<h1 align="center">I'm Romanos Papanikolaou</h1>
+<h1 align="center">My name is Romanos Papanikolaou</h1>
 <p align="center">A frontend developer from Greece 🇬🇷, Currently based in Sweden 🇸🇪</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=romanospapanikolaou&label=Profile%20views&color=0e75b6&style=flat" alt="romanospapanikolaou" /> </p>
@@ -16,9 +16,9 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanospapanikolaou&show_icons=true&locale=en&layout=compact" alt="romanospapanikolaou" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanospapanikolaou&show_icons=true&locale=en" alt="romanospapanikolaou" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanospapanikolaou&show_icons=true&locale=en" alt="romanospapanikolaou" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanospapanikolaou&" alt="romanospapanikolaou" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanospapanikolaou&" alt="romanospapanikolaou" /></p>
 
 
 - 📫 How to reach me **romanos.papanikolaou@gmail.com**
