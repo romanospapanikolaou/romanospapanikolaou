@@ -27,7 +27,7 @@
 <a href="https://instagram.com/romanospapanikolaou" target="blank"><img width="60" height="60" src="https://img.icons8.com/ios/50/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 <a href="https://linkedin.com/in/romanos-papanikolaou
 " target="blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin"/></a>
-<a href="mailto:romanospapanikolaou@gmail.com?subject=You can write your subject here&body=You can start saying Hello!"><img width="60" height="60" src="https://img.icons8.com/glyph-neue/64/FFFFFF/new-post.png" alt="new-post"/></a>
+<a href="mailto:romanospapanikolaou@gmail.com?subject=You can write your subject here&body=You can start saying Hello!" target=”_blank”><img width="60" height="60" src="https://img.icons8.com/glyph-neue/64/FFFFFF/new-post.png" alt="new-post"/></a>
 </p>
 
 <h4 align="center">⚡ Fun fact ⚡
