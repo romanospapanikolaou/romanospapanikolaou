@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello</h1>
 <h1 align="center">I'm Romanos Papanikolaou</h1>
 <h2 align="center">A frontend developer from Greece 🇬🇷</h2>
 <h2 align="center">Currently based in Sweden 🇸🇪</h2>
@@ -7,7 +7,7 @@
 
 
 
-<h3 background-color="black" align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/FFFFFF/html-5--v1.png" alt="html-5--v1"/> </p>
 
