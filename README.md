@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1550438496-8c6e269e7886?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzF8ODY0Nzg1OXx8ZW58MHx8fHx8)
+![MasterHead](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?q=80&w=2978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <h1 align="center">Hi 👋, I'm Romanos Papanikolaou</h1>
 <h2 align="center">#romanos-your-dev</h2>
