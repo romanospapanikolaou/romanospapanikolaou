@@ -8,7 +8,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img width="100" height="100" src="https://img.icons8.com/ios-filled/100/1A1A1A/html.png" alt="html"/> </p>
+<img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanospapanikolaou&show_icons=true&locale=en&layout=compact" alt="romanospapanikolaou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanospapanikolaou&show_icons=true&locale=en" alt="romanospapanikolaou" /></p>
